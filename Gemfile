@@ -19,6 +19,9 @@ gem 'duktape'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails'
 
+# Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
+gem 'turbolinks', '~> 5.2.1'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
